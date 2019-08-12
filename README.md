@@ -1,2 +1,2 @@
 # RNG
-Random Number Generator
+Simple random number generator mimicking java's linear congruential generator.
