@@ -10,7 +10,7 @@ public class RNG {
     public RNG(long seed) {
         a = Long.parseUnsignedLong("25214903917");
         c = 11;
-        m = 2<<48;
+        m = 1<<48;
         this.seed = seed;
         x = seed;
     }
